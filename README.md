@@ -9,7 +9,8 @@ Il materiale è organizzato per esami e moduli. Ogni cartella contiene:
 
 ##  Insegnamenti Inclusi
 - **Psicologia Generale:** Attenzione, coscienza, percezione e memoria (incluso il modello di Broadbent).
-- *[TODO]*
+- **Psicologia dinamica** Freud, psicanalisi, Breuer, ...
+- **Psicologia sociale**
 
 ##  Note sulla Metodologia
 Tutti gli appunti sono redatti in **LaTeX** per mantenere una struttura  chiara, utile a supportare i processi di apprendimento e ridurre il carico sulla memoria di lavoro.
